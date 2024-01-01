@@ -5,7 +5,7 @@ The folder /codeFromBook includes the original code that comes from the followin
 > (英) 法雷尔 Farrell, Simon, & (英) 勒万多夫斯基 Lewandowsky, Stephan. (2021). 认知和行为的计算建模. 清华大学出版社. (Chinese translated version)  
 
 ### new-organized-bookch
-The folder /new-organized-bookch includes the tested and debugged code that was reorganized from the book:
+The folder /new-organized-bookch includes the tested and debugged code that was reorganized from chapters of the book as below:
 
 > 1- Random Walk Model-DDM  
 > 2 - Basic Parameter Estimation 1  
