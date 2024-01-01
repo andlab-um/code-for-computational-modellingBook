@@ -6,16 +6,17 @@ The folder /codeFromBook includes the original code that comes from the followin
 
 ### new-organized-bookch
 The folder /new-organized-bookch includes the tested and debugged code that was reorganized from the book:
-1- Random Walk Model-DDM
-2 - Basic Parameter Estimation 1
-3 - Basic Parameter Estimation 2
-4 - Combining Data
-5 - Bayesian Parameter Estimation
-6- MCMC
-7- Gibbs Sampling & JAGS
-8 - Hierachical Modeling
-9 - Model Comparison
-10 - Bayesian Model Comparison
+
+> 1- Random Walk Model-DDM
+> 2 - Basic Parameter Estimation 1
+> 3 - Basic Parameter Estimation 2
+> 4 - Combining Data
+> 5 - Bayesian Parameter Estimation
+> 6- MCMC
+> 7- Gibbs Sampling & JAGS
+> 8 - Hierachical Modeling
+> 9 - Model Comparison
+> 10 - Bayesian Model Comparison
 
 > Please note that some of the content may be incorrect in different versions of R.   
 > One available version is R version **4.2.1** (2022-06-23) with Package **lme4** version **1.1-29**.   
